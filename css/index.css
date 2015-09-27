@@ -1,0 +1,10 @@
+body {
+    background-image: url("/img/banner.jpg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: 0px 60px;
+}
+
+#md-body-container {
+    margin-top: calc(1264 * 100% / 4209) !important;
+}

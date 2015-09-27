@@ -1,2 +1,0 @@
-# jbsarrodie.github.io
-ArtChitecture

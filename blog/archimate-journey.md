@@ -48,15 +48,10 @@ Archi is the de-facto standard tool as it's the only opensource modeller availab
     ![](/img/archimate-journey-3.png)
 
   * As a "beginner" you will not always know what relations are permitted between elements. The [Magic Connector](http://www.archimatetool.com/movies/magic_connector/magic_connector.html) is here to help you.
- 
-**Models examples**
-
-  * You'll also find attached the model I use for training purposes. It contains training materials (views under "Concepts" folder) but also architecture patterns (views under "Patterns" folder) for citrix, Oracle, FileBox, Java webapps, webMethods...). Do not forget to open the Properties windows to read comments I made on some views (ArchiMate Training.archimate).
-  * The European Customer Portal design (both .archimate file and PDF report file) included in the report ZIP file (EDC_detailed_design_v1.2.zip). See below.
 
 
 Model and Report templates
 --------------------------
-You'll find attached report template in the ZIP file (EDC_detailed_design_v1.2.zip), alongside with a documentation (Archi document & report template for EDC.docx) for setup. Also contains a model example (European Customer Portal Platform) and generated PDF file. This template as been designed and use for the France Datacenters Consolidation to EDC project.
+Since recent versions, Archi includes the "Customizable Report" template based on the work I done for several internal project. This template allow a better looking report with several nice features like custom cover and header background, ability to choose which sections to show/hide, ability to hide diagram...
  
 Hope this will help you start quickly.

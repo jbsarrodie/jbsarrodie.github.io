@@ -6,19 +6,19 @@
 How to build an efficient CMDB ?
 --------------------------------
 
-This blog entry presents how I have designed our CMDB through the use of good standards like ITIL, TOGAF, ArchiMate... and some possible usages (for Internal Control Standards for example). But let's start by the begining...
+In this post I'm gonna share with you how I have designed our CMDB through the use of good standards like ITIL, TOGAF, ArchiMate... and some possible usages (for Internal Control Standards for example). But let's start by the begining...
  
-For several reasons we decided to use [CMDBuild](http://www.cmdbuild.org/en/) as it's an opensource that comes with no model configured, which is nice as this has allowed us to start "from scratch". So, the first thing we did was to define the model, and here comes the standards...
- 
+For several reasons (that would need a dedicated post) I decided to use [CMDBuild](http://www.cmdbuild.org/en/) as it's an opensource that comes with no model configured (although recently a default configuration named [READY2USE](http://www.cmdbuild.org/en/prodotti/ready2use) is now available), which is nice as this has allowed us to start "from scratch". So, the first thing I did was to define the model, and here comes the standards...
+
 Being used to TOGAF, I decided it's [content metamodel](http://pubs.opengroup.org/architecture/togaf9-doc/arch/chap34.html) was the best choice for a CMDB. And I will explain you why...
 
 
 A well defined common language
 ------------------------------
  
-We rely more and more on a network of colleagues and internal service providers. in this context, the entities (or CI) in the CMDB model have to be understandable outside our own context. In other words, we have to find a shared language, a shared (and agreed) definition of these entities.
+In our day to day work, we rely more and more on a network of colleagues and internal service providers. in this context, the entities (or CI) in the CMDB model have to be understandable outside our own context. In other words, we have to find a shared language, a shared (and agreed) definition of these entities.
  
-TOGAF offers an answer through the definition of (almost) all entities needed to describe our enterprise. As this is the conclusion of several years of experience, I decided not to challenge it, but use it "as is" as much as possible.
+TOGAF offers an answer through the definition of (almost) all entities needed to describe our organisation. As this is the conclusion of several years of experience, I decided not to challenge it, but use it "as is" as much as possible.
  
 For example, TOGAF defined a process as follows:
 
@@ -50,7 +50,7 @@ Isn't it nice to have all this work already done?
 A way to link these concepts each other
 ---------------------------------------
  
-Having a nice set of entities is not enough, a CMDB is all about linking something to something else. TOGAF come with a whole set of relations between entities. And again, all this is described:
+Having a nice set of entities is not enough, a CMDB is all about linking something to something else. TOGAF comes with a whole set of relations between entities. And again, all this is described:
 
 ![](http://pubs.opengroup.org/architecture/togaf9-doc/arch/Figures/34_contentfwk6.png)
  
@@ -116,6 +116,8 @@ You could argue that our tool is too young in our organisation do tell that it's
 
 Download
 --------
+
+Warning: what follows has been developped for CMDBuild version 1.4. I shall post a more recent version some day, but as of today you have to first install CMDBuild v1.4, launch my queries and then update to CMDBuild latest version.
 
 [Here](https://docs.google.com/open?id=0B0WsokejBIkgQlZyc2stT3lRWEE) you'll find:
   * The SQL queries needed to create classes, domains, lookup, role and menu for TOGAF

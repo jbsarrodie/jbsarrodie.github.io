@@ -3,7 +3,7 @@
 How to best start your ArchiMate journey
 ====================================
 
-First of all, in case you still don't know what ArchiMate is I suggest you to read [this post](). And for impatient, here is a (very) small description:
+First of all, in case you still don't know what ArchiMate is, here is a (very) small description:
 
 _ArchiMate is an open and independent enterprise architecture modelling language to support the description, analysis and visualization of architecture within and across business domains in an unambiguous way. In most cases, it can be use instead of BPMN or UML and as an open standard is fully documented. ArchiMate is a technical standard from [The Open Group](http://opengroup.org)_
 

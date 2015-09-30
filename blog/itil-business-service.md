@@ -3,7 +3,7 @@
 Exact meaning of _Business Service_ concept in ITIL ?
 ===============================================
 
-Note: I wrote this post more than a year ago, but recent discussions about _Business Service_ between [Gerben Wierda](http://masteringarchimate.com/2015/09/24/what-is-wrong-with-this-picture-2) and [Tom Graves](http://weblog.tetradian.com/2015/09/27/why-service-function-and-capability) make me think about it. So I publish it here so that you can enjoin inner contradiction in ITIL itself ;-)
+Note: I wrote this post more than a year ago for internal purpose (pictures shows "Lafarge" but you can put whatever organization name you want instead), but recent discussions about _Business Service_ between [Gerben Wierda](http://masteringarchimate.com/2015/09/24/what-is-wrong-with-this-picture-2) and [Tom Graves](http://weblog.tetradian.com/2015/09/27/why-service-function-and-capability) make me think about it. So I publish it here so that you can enjoin inner contradiction in ITIL itself ;-)
 
 During a discussion with some colleagues, we saw that the concept of _Business Service_ was not clear. This post is an attempt at clarifying this concept and is open to any remarks or criticisms.
  

@@ -3,7 +3,7 @@
 Exact meaning of _Business Service_ concept in ITIL ?
 ===============================================
 
-Note: I wrote this post more than a year ago for internal purpose (pictures shows "Lafarge" but you can put whatever organization name you want instead), but recent discussions about _Business Service_ between [Gerben Wierda](http://masteringarchimate.com/2015/09/24/what-is-wrong-with-this-picture-2) and [Tom Graves](http://weblog.tetradian.com/2015/09/27/why-service-function-and-capability) make me think about it. So I publish it here so that you can enjoin inner contradiction in ITIL itself ;-)
+Note: I wrote this post more than a year ago for internal purpose, but recent discussions about _Business Service_ between [Gerben Wierda](http://masteringarchimate.com/2015/09/24/what-is-wrong-with-this-picture-2) and [Tom Graves](http://weblog.tetradian.com/2015/09/27/why-service-function-and-capability) make me think about it. So I publish it here so that you can enjoin inner contradiction in ITIL itself ;-)
 
 During a discussion with some colleagues, we saw that the concept of _Business Service_ was not clear. This post is an attempt at clarifying this concept and is open to any remarks or criticisms.
  
@@ -36,7 +36,7 @@ In an attempt to make is even clearer, here is the chain from infrastructure to 
 
 ![](/img/itil-business-service-1.png)
 
-So you may ask what kind of ununderstanding we may face. That's pretty easy: depending on how we consider IT (one would say how we partition architecture) we may see ourself as service provider and thus consider services we deliver to Lafarge Business as _Business Service_, but that's IMHO a bad way, leading to more confusion. A potential "solution" is (sticking to ITIL v3) to use the concepts of Supporting Services and Core Services:
+So you may ask what kind of ununderstanding we may face. That's pretty easy: depending on how we consider IT (one would say how we partition architecture) we may see ourself as service provider and thus consider services we deliver to the rest of our Organization as _Business Service_, but that's IMHO a bad way, leading to more confusion. A potential "solution" is (sticking to ITIL v3) to use the concepts of Supporting Services and Core Services:
 
   * Supporting Service: _An IT service that is not directly used by the business, but is required by the IT service provider to deliver customer-facing services (for example, a directory service or a backup service). Supporting services may also include IT services only used by the IT service provider. All live supporting services, including those available for deployment, are recorded in the service catalogue along with information about their relationships to customer-facing services and other CIs._
   * Core Service: _A service that delivers the basic outcomes desired by one or more customers. A core service provides a specific level of utility and warranty. Customers may be offered a choice of utility and warranty through one or more service options._

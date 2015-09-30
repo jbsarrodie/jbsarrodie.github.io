@@ -17,6 +17,10 @@
   * [CMDB & Enterprise Architecture Repository](/tag/cmdb.md)
   * [Toolbox](/tag/toolbox.md)
 
+[Site map](navigation.md)
+
+[RSS Feed](https://script.google.com/macros/s/AKfycby5Sd-9Ivq2BrU6AgpBtFo6kUQ2ABZh8cOoJX6H7Dc0CZ9XPWxu/exec)
+
 [About]()
 
   * [This site](about.md)

@@ -5,6 +5,7 @@
 
 [Blog]()
 
+  * [Exact meaning of Business Service concept in ITIL ?](/blog/itil-business-service.md)
   * [NodeXL - Graph visualisation for better analysis](/blog/nodexl.md)
   * [Open Standard based EA Repository](/blog/open-std-based-ea-repository.md)
   * [How to best start your ArchiMate journey](/blog/archimate-journey.md)

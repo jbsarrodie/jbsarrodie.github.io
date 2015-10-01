@@ -1,4 +1,5 @@
 <script type="text/javascript" src="/js/disqus.js"></script>
+<script type="text/javascript" src="/js/analytics.js"></script>
 [gimmick:theme](flatly)
 
 # Art.chitectu.re

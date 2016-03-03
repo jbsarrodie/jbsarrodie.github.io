@@ -6,6 +6,7 @@
 
 [Blog]()
 
+  * [The french baguette is better](/blog/french-baguette.md)
   * [Exact meaning of Business Service concept in ITIL ?](/blog/itil-business-service.md)
   * [NodeXL - Graph visualisation for better analysis](/blog/nodexl.md)
   * [Open Standard based EA Repository](/blog/open-std-based-ea-repository.md)

@@ -29,4 +29,4 @@ So what went wrong? That's simple: I live in France, so most sandwiches are done
 Conclusion
 ---------
 
-This is, in my opinion, a good example of how a customer journey can be influence by some small things related to the way you package your product (a handleless paper bag) or the way you optimize you production process (cut baguette in two parts). Never forget to keep focus on the real, basic needs. Whatever you're gonna add to enhance you product will be lost if you don't cover the basic expectations of your customers.
+This is, in my opinion, a good example of how a customer journey can be influenced by some small things related to the way you package your product (a handleless paper bag) or the way you optimize you production process (cut baguette in two parts). Never forget to keep focus on the real, basic needs. Whatever you're gonna add to enhance your product will be lost if you don't cover the basic expectations of your customers.

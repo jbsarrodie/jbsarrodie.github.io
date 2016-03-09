@@ -6,6 +6,7 @@
 
 [Blog]()
 
+  * [Archi does matter!](/blog/archi-does-matter.md)
   * [The french baguette is better](/blog/french-baguette.md)
   * [Exact meaning of Business Service concept in ITIL ?](/blog/itil-business-service.md)
   * [NodeXL - Graph visualisation for better analysis](/blog/nodexl.md)

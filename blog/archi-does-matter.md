@@ -1,6 +1,6 @@
 ﻿[gimmick:Disqus](artchitecture)
 
-Why Archi does matter!
+Why [Archi](http://www.archimatetool.com) does matter!
 ====================
 And not only for me
 -----------------
